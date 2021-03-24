@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #CCBA91; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #232425;}
+html, body {background: #D4D9DD; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #232425;}
 
 .clear {clear: both;}
 
@@ -19,7 +19,7 @@ p {
 	font-size: 1em;
 	line-height: 1.4em;
 	margin-bottom: 20px;
-	color: #709CD1;
+	color: #232425;
 }
 
 #cv {
@@ -32,7 +32,7 @@ p {
 .mainDetails {
 	padding: 25px 35px;
 	border-bottom: 2px solid #5BC0BE;
-	background: #3A506B;
+	background: #232425;
 }
 
 #name h1 {
@@ -100,7 +100,7 @@ p {
 
 
 section {
-	border-top: 1px solid #5BC0BE;
+	border-top: 1px solid #ECF2F7;
 	padding: 20px 0 0;
 }
 
