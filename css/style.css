@@ -37,28 +37,33 @@ html, body {background: #CCBA91; font-family: 'Lato', helvetica, arial, sans-ser
 	float: left;
 }
 
-.contactDetails {
+.contactdetails {
 	float: right;
 }
 
-.contactDetails ul {
+.contactdetails ul {
 	list-style-type: none;
 	font-size: 0.9em;
 	margin-top: 2px;
 }
 
-.contactDetails ul li {
+.contactdetails ul li {
 	margin-bottom: 3px;
 	color: #232425;
 }
 
-.contactDetails ul li a, a[href^=tel] {
+.contactdetails ul li a, a[href^=tel] {
 	color: #232425;
 	text-decoration: none;
 }
 
-.contactDetails ul li a:hover {
+.contactdetails ul li a:hover {
 	color: #CCBA91;
+}
+
+section {
+	border-top: 1px solid #5BC0BE;
+	padding: 20px 0 0;
 }
 
 .mainbody {
