@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #0B132B; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #50AAA9;}
+html, body {background: #CCBA91; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #232425;}
 
 .clear {clear: both;}
 
@@ -25,7 +25,7 @@ p {
 #cv {
 	width: 90%;
 	max-width: 1200px;
-	background: #CCBA91;
+	background: #ECF2F7;
 	margin: 30px auto;
 }
 
