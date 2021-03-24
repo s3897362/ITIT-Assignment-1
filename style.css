@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #D4D9DD; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #232425;}
+html, body {background: #D4D9DD; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #D4D9DD;}
 
 .clear {clear: both;}
 
@@ -31,8 +31,8 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #5BC0BE;
-	background: #232425;
+	border-bottom: 2px solid #ECF2F7;
+	background: #D4D9DD;
 }
 
 #name h1 {
