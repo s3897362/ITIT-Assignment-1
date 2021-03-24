@@ -11,13 +11,13 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #D4D9DD; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #232425;}
+html, body {background: #CCBA91; font-size: 16px; color: #232425;}
 
 .clear {clear: both;}
 
 .pageheader {
 	width: 90%;
-	max-width: 1000px;
+	max-width: 850px;
 	background: #CCBA91;
 	margin: 30px auto;
 }
@@ -69,32 +69,18 @@ section {
 }
 
 .mainbody {
-	padding: 25px 35px;
 	background: #CCBA91;
 }
 
 .subtitle {
-	float: left;
-	width: 15%;
-}
-
-.subtitle h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	font-size: 1.5em;
 	color: #232425;
+	float: left;
+	width: 20%;
 }
 
-.subcontent h2 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	font-size: 1.5em;
-	margin-bottom: -2px;
-}
-
-.subcontent h3 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	font-style: italic;
-	font-size: 1.1em;
-	margin-bottom: -2px;
+.subcontent {
+	float: right;
+	width: 75%;
 }
 
 .subcontent img {
@@ -102,17 +88,13 @@ section {
 }
 
 p {
-	font-size: 1em;
-	line-height: 1.4em;
 	margin-bottom: 20px;
 	color: #232425;
-
-	section {
-		border-top: 1px solid #232425;
-		padding: 20px 0 0;
 }
 
-.selector {
-    width:100%;
-    height:100%;
+body {
+	width: 90%;
+	max-width: 850px;
+	background: #CCBA91;
+	margin: 30px auto;
 }
