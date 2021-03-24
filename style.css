@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #CCBA91; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #232425;}
+html, body {background: #D4D9DD; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #232425;}
 
 .clear {clear: both;}
 
@@ -25,14 +25,14 @@ p {
 #cv {
 	width: 90%;
 	max-width: 1200px;
-	background: #D4D9DD;
+	background: #CCBA91;
 	margin: 30px auto;
 }
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #ECF2F7;
-	background: #D4D9DD;
+	border-bottom: 2px solid #232425;
+	background: #CCBA91;
 }
 
 #name h1 {
@@ -81,11 +81,11 @@ p {
 
 #contactDetails ul li {
 	margin-bottom: 3px;
-	color: #0B132B;
+	color: #232425;
 }
 
 #contactDetails ul li a, a[href^=tel] {
-	color: #0B132B;
+	color: #232425;
 	text-decoration: none;
 	-webkit-transition: all .3s ease-in;
 	-moz-transition: all .3s ease-in;
@@ -95,12 +95,12 @@ p {
 }
 
 #contactDetails ul li a:hover {
-	color: #6FFFE9;
+	color: #CCBA91;
 }
 
 
 section {
-	border-top: 1px solid #ECF2F7;
+	border-top: 1px solid #232425;
 	padding: 20px 0 0;
 }
 
@@ -147,7 +147,7 @@ section:last-child {
 }
 
 .sectionContent img {
-	border: 2px solid #ECF2F7;
+	border: 2px solid #232425;
 }
 
 .subDetails {
