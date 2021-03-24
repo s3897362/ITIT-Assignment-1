@@ -13,55 +13,55 @@ display:block;
 
 html, body {background: #0B132B; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #50AAA9;}
 
-#pageheader {
+.pageheader {
 	width: 90%;
 	max-width: 1200px;
 	background: #1C2541;
 	margin: 30px auto;
 }
 
-#photome {
+.photome {
 	width: 12.5%;
 	float: left;
 	margin-right: 30px;
 }
 
-#photome img {
+.photome img {
 	width: 100%;
 	height: auto;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 }
 
-#titles {
+.titles {
 	float: left;
 }
 
-#contactDetails {
+.contactDetails {
 	float: right;
 }
 
-#contactDetails ul {
+.contactDetails ul {
 	list-style-type: none;
 	font-size: 0.9em;
 	margin-top: 2px;
 }
 
-#contactDetails ul li {
+.contactDetails ul li {
 	margin-bottom: 3px;
 	color: #232425;
 }
 
-#contactDetails ul li a, a[href^=tel] {
+.contactDetails ul li a, a[href^=tel] {
 	color: #232425;
 	text-decoration: none;
 }
 
-#contactDetails ul li a:hover {
+.contactDetails ul li a:hover {
 	color: #CCBA91;
 }
 
-#mainbody {
+.mainbody {
 	padding: 0 20px;
 }
 
