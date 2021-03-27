@@ -11,13 +11,15 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #CCBA91; font-size: 16px; color: #232425;}
+html {
+	background: #D4D9DD;
+}
 
 .clear {clear: both;}
 
 .pageheader {
 	width: 90%;
-	max-width: 850px;
+	max-width: 1000px;
 	background: #CCBA91;
 	margin: 30px auto;
 }
@@ -65,17 +67,12 @@ html, body {background: #CCBA91; font-size: 16px; color: #232425;}
 
 section {
 	border-top: 2px solid #232425;
-	padding: 20px 0 0;
+	padding: 20px;
 }
 
 .mainbody {
 	background: #CCBA91;
-}
-
-.subtitle {
-	color: #232425;
-	float: left;
-	width: 20%;
+	margin: 30px auto;
 }
 
 .subcontent {
@@ -83,18 +80,35 @@ section {
 	width: 75%;
 }
 
-.subcontent img {
+img {
 	border: 2px solid #232425;
+	max-width: 700px;
 }
 
 p {
 	margin-bottom: 20px;
 	color: #232425;
+
 }
 
 body {
-	width: 90%;
-	max-width: 850px;
+	border: 2px solid #232425;
+	max-width: 1200px;
 	background: #CCBA91;
-	margin: 30px auto;
+	margin: 100px auto;
+}
+
+h2 {
+	color: #232425;
+	float: left;
+}
+
+h3 {
+	color: #232425;
+	float: left;
+}
+
+.listindent {
+	float: right;
+	width: 95%;
 }
