@@ -1,5 +1,5 @@
 html {
-	background: #DAF0F9 ;
+	background: #fff2e6;
 }
 
 .clear {clear: both;}
@@ -93,4 +93,12 @@ body {
 	column-count: 2;
 	margin-bottom: 20px;
 
+}
+
+h4 {
+	color: #404040;
+}
+
+h3 {
+	color: #664400;
 }
