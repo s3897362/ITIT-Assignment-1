@@ -7,7 +7,7 @@ html {
 .pageheader {
 	width: 90%;
 	max-width: 1000px;
-	background: #C6C492;
+	background: #BCBB93 ;
 	margin: 30px auto;
 }
 
@@ -25,7 +25,7 @@ html {
 }
 
 .titles {
-	float: left;
+	float: center;
 }
 
 .contactdetails {
@@ -56,12 +56,12 @@ section {
 }
 
 .mainbody {
-	background: #C6C492;
+	background: #BCBB93 ;
 	margin: 30px auto;
 }
 
 .subcontent {
-	float: right;
+	float: center;
 	width: 80%;
 }
 
@@ -78,7 +78,7 @@ p {
 body {
 	border: 2px solid #232425;
 	max-width: 1200px;
-	background: #C6C492;
+	background: #BCBB93 ;
 	margin: 100px auto;
 }
 
