@@ -52,7 +52,7 @@ html {
 
 section {
 	border-top: 2px solid #232425;
-	padding: 20px;
+	padding: 15px;
 }
 
 .mainbody {
@@ -62,7 +62,6 @@ section {
 
 .subcontent {
 	float: center;
-	width: 80%;
 }
 
 img {
@@ -71,7 +70,7 @@ img {
 }
 
 p {
-	margin-bottom: 20px;
+	margin-bottom: 25px;
 
 }
 
